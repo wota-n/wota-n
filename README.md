@@ -1,3 +1,3 @@
 - 👋 Hi, I am Najmee, a Computer Science graduate specializing in Cloud Computing.
 - 👀 Currently I am interested in info security and blockchain. The former of which I am actively developing skills for whilst the latter is mostly reading and studying it.
-- 🌱 I’m currently learning info security through TryHackMe's learning paths and my most active repos are documenting what I learn from their learning paths.
+- 🌱 I’m currently learning info security through TryHackMe's learning paths and my most active repos are documenting what I learn there.
