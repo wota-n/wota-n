@@ -1,1 +1,1 @@
-Current working as a Junior Cloud Engineer
+Currently working as a Junior Cloud Engineer
