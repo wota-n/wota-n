@@ -1,1 +1,1 @@
-Currently working as a Junior Cloud Engineer
+Cloud Engineer with some interests in homelabbing and security.
